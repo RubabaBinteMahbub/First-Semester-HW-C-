@@ -12,7 +12,7 @@ C=2*pi*r;
 area=pi*r*r;
 
 printf("Diameter = %.2f\n",D);
-printf("Carcumference = %.2f\n",C);
+printf("Circumference = %.2f\n",C);
 printf("Area = %.2f\n",area);
 
 return 0;
